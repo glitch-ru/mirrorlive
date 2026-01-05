@@ -1,4 +1,5 @@
 {
   "mirror1": "https://mirror.com",
-  "mirror2": "https://example.org"
+  "mirror2": "https://example.org",
+  "m-path": "https://ya.ru"
 }
